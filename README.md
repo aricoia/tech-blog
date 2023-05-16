@@ -46,7 +46,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Links
 - Deployed Webpage:
-- GitHub Repo Page:
+- GitHub Repo Page: https://github.com/aricoia/tech-blog
 ​
 ​
 ## License
