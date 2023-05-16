@@ -1,4 +1,4 @@
-# ramen-talks
+# tech-blog
 
 ## Description
 AS A developer who writes about tech
